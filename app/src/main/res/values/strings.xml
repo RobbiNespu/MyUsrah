@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Usrah</string>
+    <string name="No_Subscription">No Subscription</string>
+    <string name="action_settings">Edit</string>
+    <string name="title_activity_subscription">Subscription</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
